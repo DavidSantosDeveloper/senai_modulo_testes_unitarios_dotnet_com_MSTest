@@ -6,7 +6,7 @@ Show! Aqui está o `README.md` atualizado com a legenda explicando que a imagem 
 ## 🧪 Projeto de Testes - IMC com MSTest (.NET)
 
 <p align="center">
-  <img src="materiais_aula/imc_com_MSTest.jpg" alt="Diagrama de classes IMC" width="500"/>
+  <img src="materiais_aula/imc_com_MSTest.png" alt="Diagrama de classes IMC" width="500"/>
   <br/>
   <em>Figura: Diagrama de classes da aplicação de cálculo do IMC</em>
 </p>
